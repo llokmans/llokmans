@@ -61,7 +61,7 @@ Ubuntu Linux · PyCharm · Git · pyenv (Python 3.14.3)
 
 ## `> ls -la projects/`
 
-### 🔴 [CyberVault](/) — Deliberately Vulnerable Flask App
+### 🔴 CyberVault(/) — Deliberately Vulnerable Flask App
 > A legal attack-practice environment I built and hack myself.
 
 - Intentional vulns: MD5 (unsalted) passwords, hash-leak endpoint, weak secret key
@@ -79,7 +79,7 @@ Ubuntu Linux · PyCharm · Git · pyenv (Python 3.14.3)
 
 ---
 
-### 🧠 [SecondMind](/) — AI Knowledge OS *(built)*
+### 🧠 SecondMind— AI Knowledge OS *(built)*
 > SaaS platform for knowledge management targeting Balkan markets (MK/AL/EN).
 
 - 3D knowledge graph, AI-powered notes, multi-language support
