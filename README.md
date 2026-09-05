@@ -1,10 +1,10 @@
 <div align="center">
 
 ```
-    Engineering
+   Software Engineering
 ```
 
-**`llokman`** — PYTHON BACKEND DEVELOPER · Developer · Linux User
+llokman — PYTHON BACKEND DEVELOPER · Developer · Linux User
 
 
 </div>
@@ -32,8 +32,7 @@ Self-taught developer transitioning full-time into software engineering. I learn
 
 **Languages & Frameworks**
 ```
-Python ·  ·  · Django
-React ·  · · Flask ·
+Python - Flask 
 ```
 
 **Databases & Backend**
@@ -43,8 +42,7 @@ PostgreSQL · MySQL · SQLite
 
 **Security & Tools**
 ```
-Kali Linux · John the Ripper · Nmap · VirtualBox
-Penetration Testing (learning) · Vulnerability Analysis
+Kali Linux · 
 ```
 
 **Environment**
