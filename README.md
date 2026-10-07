@@ -4,7 +4,7 @@
 
 ### Python Backend Developer · Data Engineering · Cybersecurity enthusiast
 
-Self-taught developer from Tetovo, North Macedonia 🇲🇰
+Self-taught developer from Tetovo, North Macedonia 
 I learn by building real projects by hand — no copy-paste — and shipping them to GitHub.
 
 ![Profile views](https://komarev.com/ghpvc/?username=llokmans&label=Profile%20views&color=0e75b6&style=flat)
