@@ -78,7 +78,7 @@ I learn by building real projects by hand — no copy-paste — and shipping the
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=llokmans&hide_border=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=llokmans&layout=compact&langs_count=8&hide_border=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=llokmans&layout=compact&langs_count=8&hide=css,html,javascript,scss&hide_border=true&theme=tokyonight)
 
 </div>
 
