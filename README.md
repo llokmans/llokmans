@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm — Llokman Sallai
 
-### Python Backend Developer · Data Engineering · Cybersecurity enthusiast
+### Python Backend Developer · Software Developer
 
 Self-taught developer from Tetovo, North Macedonia 
 I learn by building real projects by hand — no copy-paste — and shipping them to GitHub.
